@@ -1,7 +1,7 @@
 # Win_Resources
 
 ### Includes the following:
-mimi21.exe -> Older version of Mimikatz
+mimi21.exe -> Older version of Mimikatz < br/>
 mimikatz.exe -> Newer version of mimikatz
 nc.exe -> Static compiled netcat
 psTools.zip -> From SysInternals
